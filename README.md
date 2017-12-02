@@ -27,5 +27,6 @@ First create a firebase project at https://firebase.google.com/
 Create a firebaseApp.js or rename the firebaseAppExample.js in your project
 
 Click the option "Add Firebase to your web app"
+![firebase](https://user-images.githubusercontent.com/22132921/33520120-8fb50ec8-d782-11e7-935c-98df6c272361.png)
 
 Copy the config object and past it into the firebaseApp.js as a const instead of a var for ES6
